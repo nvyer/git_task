@@ -1,4 +1,7 @@
-function getRandomNumber() {
-    return Math.random()
+function getRandomLetter() {
+    const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+    const index = parseInt(Math.random() * 28);
+    return alphabet[index];
 }
-getRandomNumber();
+
+getRandomLetter();
