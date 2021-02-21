@@ -5,3 +5,9 @@ function getRandomLetter() {
 }
 
 getRandomLetter();
+
+
+const multiply = (arr, n) => arr.map((el) => el * n);
+
+multiply([1, 2, 3], 3);
+
