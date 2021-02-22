@@ -1,5 +1,4 @@
 ## GitHub homework
-__________________________________________
 
 - First I created a file named **getRandomNumber.js** file and pushed it to my repository.
 
